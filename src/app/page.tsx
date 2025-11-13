@@ -143,7 +143,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Testimonials - APENAS MENSAGENS ESCRITAS */}
+      {/* Testimonials */}
       <section className="container mx-auto px-4 py-12 md:py-20">
         <div className="max-w-6xl mx-auto">
           <h3 className="text-3xl md:text-4xl font-bold text-white text-center mb-4">
@@ -162,7 +162,7 @@ export default function Home() {
                 ))}
               </div>
               <p className="text-white/95 mb-4 italic leading-relaxed">
-                "Perdi 12kg em 3 meses e ganhei muita disposição! O app é incrível, me ajudou em cada passo da minha jornada."
+                &quot;Perdi 12kg em 3 meses e ganhei muita disposição! O app é incrível, me ajudou em cada passo da minha jornada.&quot;
               </p>
               <div className="flex items-center gap-3">
                 <div className="w-12 h-12 bg-gradient-to-br from-cyan-400 to-blue-500 rounded-full flex items-center justify-center shadow-lg">
@@ -183,7 +183,7 @@ export default function Home() {
                 ))}
               </div>
               <p className="text-white/95 mb-4 italic leading-relaxed">
-                "Ganhei 8kg de massa muscular! A planilha personalizada fez toda diferença no meu resultado."
+                &quot;Ganhei 8kg de massa muscular! A planilha personalizada fez toda diferença no meu resultado.&quot;
               </p>
               <div className="flex items-center gap-3">
                 <div className="w-12 h-12 bg-gradient-to-br from-purple-400 to-pink-500 rounded-full flex items-center justify-center shadow-lg">
@@ -204,7 +204,7 @@ export default function Home() {
                 ))}
               </div>
               <p className="text-white/95 mb-4 italic leading-relaxed">
-                "Melhor investimento que fiz! Perdi 15kg em 5 meses e me sinto incrível."
+                &quot;Melhor investimento que fiz! Perdi 15kg em 5 meses e me sinto incrível.&quot;
               </p>
               <div className="flex items-center gap-3">
                 <div className="w-12 h-12 bg-gradient-to-br from-pink-400 to-red-500 rounded-full flex items-center justify-center shadow-lg">
@@ -225,7 +225,7 @@ export default function Home() {
                 ))}
               </div>
               <p className="text-white/95 mb-4 italic leading-relaxed">
-                "A IA realmente entende minhas necessidades. Treinos perfeitos para mim!"
+                &quot;A IA realmente entende minhas necessidades. Treinos perfeitos para mim!&quot;
               </p>
               <div className="flex items-center gap-3">
                 <div className="w-12 h-12 bg-gradient-to-br from-blue-400 to-cyan-500 rounded-full flex items-center justify-center shadow-lg">
@@ -246,7 +246,7 @@ export default function Home() {
                 ))}
               </div>
               <p className="text-white/95 mb-4 italic leading-relaxed">
-                "Praticidade total! Escanear alimentos e ter as calorias na hora é sensacional."
+                &quot;Praticidade total! Escanear alimentos e ter as calorias na hora é sensacional.&quot;
               </p>
               <div className="flex items-center gap-3">
                 <div className="w-12 h-12 bg-gradient-to-br from-green-400 to-emerald-500 rounded-full flex items-center justify-center shadow-lg">
@@ -267,7 +267,7 @@ export default function Home() {
                 ))}
               </div>
               <p className="text-white/95 mb-4 italic leading-relaxed">
-                "Resultados surpreendentes! Nunca imaginei que conseguiria mudar tanto em tão pouco tempo."
+                &quot;Resultados surpreendentes! Nunca imaginei que conseguiria mudar tanto em tão pouco tempo.&quot;
               </p>
               <div className="flex items-center gap-3">
                 <div className="w-12 h-12 bg-gradient-to-br from-orange-400 to-red-500 rounded-full flex items-center justify-center shadow-lg">
@@ -288,7 +288,7 @@ export default function Home() {
                 ))}
               </div>
               <p className="text-white/95 mb-4 italic leading-relaxed">
-                "Finalmente encontrei algo que funciona! Estou mais saudável e feliz."
+                &quot;Finalmente encontrei algo que funciona! Estou mais saudável e feliz.&quot;
               </p>
               <div className="flex items-center gap-3">
                 <div className="w-12 h-12 bg-gradient-to-br from-indigo-400 to-purple-500 rounded-full flex items-center justify-center shadow-lg">
@@ -309,7 +309,7 @@ export default function Home() {
                 ))}
               </div>
               <p className="text-white/95 mb-4 italic leading-relaxed">
-                "O suporte 24/7 é incrível! Sempre tenho ajuda quando preciso."
+                &quot;O suporte 24/7 é incrível! Sempre tenho ajuda quando preciso.&quot;
               </p>
               <div className="flex items-center gap-3">
                 <div className="w-12 h-12 bg-gradient-to-br from-teal-400 to-green-500 rounded-full flex items-center justify-center shadow-lg">
@@ -330,7 +330,7 @@ export default function Home() {
                 ))}
               </div>
               <p className="text-white/95 mb-4 italic leading-relaxed">
-                "Mudou completamente minha relação com alimentação e exercícios!"
+                &quot;Mudou completamente minha relação com alimentação e exercícios!&quot;
               </p>
               <div className="flex items-center gap-3">
                 <div className="w-12 h-12 bg-gradient-to-br from-rose-400 to-pink-500 rounded-full flex items-center justify-center shadow-lg">
@@ -424,7 +424,7 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Affiliate CTA - Compact */}
+      {/* Affiliate CTA */}
       <section className="container mx-auto px-4 py-8">
         <div className="max-w-2xl mx-auto bg-white/10 backdrop-blur-md rounded-xl p-6 border border-white/20 text-center">
           <h3 className="text-xl font-bold text-white mb-2">
